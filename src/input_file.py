@@ -209,7 +209,7 @@ siesta_variables = {'XC.functional' : 'GGA',
                     'DM.UseSaveDM' : '.true.',
                     'MD.UseStructFile' : '.false.',
                     'WriteMDXmol' : '.true.',
-                    'AtomicCoordinatesFormat' : 'Ang',
+                    'AtomicCoordinatesFormat' : 'ScaledCartesian',
                     'AtomicCoorFormatOut' : 'Ang',
                     'LatticeConstant' : '1.00 Ang',
                     'KgridCutoff' : '5.0 Ang'}
